@@ -120,6 +120,8 @@ Authorization: Bearer <access-token>
 Endpoint: POST /api/posts/
 
 Headers: Authorization: Bearer <token>
+![image](https://github.com/user-attachments/assets/c6044d45-debb-423f-8f75-4d27a2f8adbe)
+
 
 Body:
 
@@ -151,6 +153,9 @@ User Register/Login: views.py > RegisterView, /api/token/
 Blog CRUD:
 
 List/Create: BlogPostListCreateView
+![image](https://github.com/user-attachments/assets/1940b19e-1f1e-47c2-87cb-f7533fb8493e)
+
+
 
 Retrieve/Update/Delete: BlogPostRetrieveUpdateDestroyView
 
